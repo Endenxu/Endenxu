@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
 
 My name is Hugh Ven Kyle Tecson, and I am a web developer from Davao City, Philippines.
 
 ![](https://komarev.com/ghpvc/?username=Endenxu&color=blueviolet&style=plastic&abbreviated=true)
-(https://github.com/Endenxu)
+
 
 <!--
 **Endenxu/Endenxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
