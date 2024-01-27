@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Endenxu)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?usernam=Endenxu&color=blueviolet&style=plastic&abbreviated=true)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
