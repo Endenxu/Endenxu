@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Endenxu)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 <!--
 **Endenxu/Endenxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
