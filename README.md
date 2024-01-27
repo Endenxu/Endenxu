@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Endenxu)
 ![](https://komarev.com/ghpvc/?usernam=Endenxu&color=blueviolet&style=plastic&abbreviated=true)
 
 <!--
