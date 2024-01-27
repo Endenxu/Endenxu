@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hugh Ven Kyle Tecson, and I am a highly motivated freelance web developer from the Philippines.
+
 ![](https://komarev.com/ghpvc/?username=Endenxu&color=blueviolet&style=plastic&abbreviated=true)
 
 <!--
